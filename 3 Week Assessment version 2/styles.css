@@ -1,0 +1,52 @@
+body {
+  background-image: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+  
+}
+
+nav {
+	border-bottom: 2px solid #0276a9;
+}
+
+ol {
+	padding-left: 0;
+	font: 500;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: #0276a9;
+}
+ 
+
+a:visited {
+	color: crimson;
+}
+.container {
+	display: flex;
+	border: solid 2px rgb(37, 24, 15); border-radius: 4px;
+	font: DarkOliveGreen;
+	font-size: 10px;
+	justify-content: center;
+	background-color: rgb(60, 53, 53);
+	height: 50px;
+	
+}
+
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 500px;
+}

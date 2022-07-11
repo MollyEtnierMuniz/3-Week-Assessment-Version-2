@@ -1,0 +1,52 @@
+body {
+    background-image: #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+    
+  }
+  
+  nav {
+      border-bottom: 2px solid #0276a9;
+  }
+  
+  ul {
+      padding-left: 0;
+      font: green;
+  }
+  
+  .crumb {
+      margin-right: 2em;
+      display: inline;
+  }
+  
+  a {
+      color: #0276a9;
+  }
+   
+  
+  a:visited {
+      color: crimson;
+  }
+  .container1 {
+      display: flex;
+      margin-right: 50px;
+      font: rgb(47, 48, 45);
+      font-size: 14px;
+      justify-content: space-around;
+      color: green;
+      height: 50px;
+      
+  }
+  
+  
+  
+  input {
+      display: block;
+  }
+  
+  img {
+      max-width: 500px;
+  }
